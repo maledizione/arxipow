@@ -1,0 +1,19 @@
+html, body{
+	width: 100%;
+	height: 100%;
+}
+
+.contentContainer{
+	height: 100%;
+	width: 100%;
+	background: lightgray;
+}
+
+.backgroundContainer{
+	height: 70%;
+	width: 70%;
+	background-image: url("../images/11049483_831190113619175_1882037457400314515_n.jpg");
+	background-repeat: no-repeat;
+	margin: auto;
+	padding-top: 20%;
+}
